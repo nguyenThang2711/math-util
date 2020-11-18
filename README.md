@@ -8,6 +8,6 @@ This repository contains a java project to simulate a well know JDK class - the 
 
 ### Connect me via:
 [Facebook](https://www.facebook.com/trannguyenthaokhanhh/)
-[Email](nguythnn466@gmail.com)
+[Email](mailto:nguythnn466@gmail.com)
 
 #### © 2020 by Thang | FPT University ,HCM
