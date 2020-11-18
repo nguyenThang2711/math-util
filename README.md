@@ -7,7 +7,7 @@ This repository contains a java project to simulate a well know JDK class - the 
 * README.md - this file itself - to show this repo's homepage.
 
 ### Connect me via:
-[Facebook] (https://www.facebook.com/trannguyenthaokhanhh/)
-[Email}(nguythnn466@gmail.com)
+[Facebook](https://www.facebook.com/trannguyenthaokhanhh/)
+[Email](nguythnn466@gmail.com)
 
 #### © 2020 by Thang | FPT University ,HCM
