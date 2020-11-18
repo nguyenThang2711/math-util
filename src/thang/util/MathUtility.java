@@ -107,4 +107,8 @@ public class MathUtility {
 //cần tool để đẩy code từ máy lên Git .
 // CMD, GUI < IDE
 //Cách 1: CMD.
+// cần file đặc biệt để nói với gittool rằng ai lên server ai ở lại local . file này được gọi là .gitignore (thuần text)
+// nó khác nhhua tùy dự án , tùy vòa IDE , ngôn ngữ lập trình 
+// có 1 dev cực kì dth đã có sẵn các file ứng với các IDE và các ngôn ngữ lập trình 
 
+    //          https://gitignore.io
